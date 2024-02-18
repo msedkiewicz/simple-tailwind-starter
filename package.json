@@ -1,0 +1,15 @@
+{
+  "name": "simple-tailwind-starter",
+  "version": "1.0.0",
+  "description": "This repository contains configured simple Tailiwnd starter from Udemy Course \"Tailwind CSS From Scratch | Learn By Building Projects\" by Brad Traversy - https://www.udemy.com/course/tailwind-from-scratch/.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
