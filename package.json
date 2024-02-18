@@ -4,7 +4,8 @@
   "description": "This repository contains configured simple Tailiwnd starter from Udemy Course \"Tailwind CSS From Scratch | Learn By Building Projects\" by Brad Traversy - https://www.udemy.com/course/tailwind-from-scratch/.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tailwindcss -i ./input.css -o ./css/style.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch"
   },
   "keywords": [],
   "author": "",
