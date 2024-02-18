@@ -444,13 +444,6 @@ video {
   display: none;
 }
 
-/* h2 {
-    text-decoration: underline;
-  }
-  p {
-    @apply text-teal-900;
-  } */
-
 *, ::before, ::after {
   --tw-border-spacing-x: 0;
   --tw-border-spacing-y: 0;
@@ -551,26 +544,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-/* .btn-blue {
-    @apply bg-blue-500 py-2 px-4 rounded-xl font-bold text-white hover:bg-blue-700;
-  } */
-
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
-}
-
-.content-area {
-  --tw-bg-opacity: 1;
-  background-color: rgb(187 247 208 / var(--tw-bg-opacity));
-  height: 32rem;
-}
-
-@media (min-width: 1280px) {
-  body {
-    --tw-bg-opacity: 1;
-    background-color: rgb(0 0 0 / var(--tw-bg-opacity));
-    --tw-text-opacity: 1;
-    color: rgb(255 255 255 / var(--tw-text-opacity));
-  }
 }
